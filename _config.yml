@@ -22,10 +22,9 @@ title: Dennis's website
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is my website for the MIT 6.1040 projects
-baseurl: "ds412.github.io" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ds412.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  ds412
 
 # Build settings
 theme: beautiful-jekyll-theme
