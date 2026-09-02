@@ -1,10 +1,9 @@
 ---
 layout: post
-title:  "My first post"
-date:   2026-09-01 18:51:04 -0400
+title:  "Welcome to Jekyll!"
+date:   2026-09-01 19:59:21 -0400
 categories: jekyll update
 ---
-This is in the _posts directory and gives an outline of how to write posts.
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 Jekyll requires blog post files to be named according to the following format:

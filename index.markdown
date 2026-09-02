@@ -4,5 +4,3 @@
 
 layout: home
 ---
-This is my website for the MIT 6.1040 Fall 2022 projects. 
-I will try and keep this up to date as I progress in the course.
